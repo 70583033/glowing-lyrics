@@ -1,0 +1,12 @@
+body {
+  background: black;
+  text-align: center;
+  padding-top: 150px;
+}
+
+#lyric {
+  color: white;
+  font-family: sans-serif;
+  font-size: 4rem;
+  text-shadow: 0 0 10px #f0f, 0 0 30px #f0f, 0 0 60px #f0f;
+}
